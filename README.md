@@ -33,7 +33,7 @@ This repository contains a web application for data analysis using machine learn
 Start the Streamlit app:
 ```bash
 streamlit run app.py
-
+```
 ## Contact
 For any questions or suggestions, feel free to reach out:
 - ** Email ** : fahad1078397@gmail.com
