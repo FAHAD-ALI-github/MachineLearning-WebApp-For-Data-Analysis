@@ -13,8 +13,8 @@ This repository contains a web application for data analysis using machine learn
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/web-app-ml-data-analysis.git
-    cd web-app-ml-data-analysis
+    git clone https://github.com/FAHAD-ALI-github/MachineLearning-WebApp-For-Data-Analysis.git
+    cd MachineLearning-WebApp-For-Data-Analysis
     ```
 
 2. **Create a virtual environment**:
@@ -36,8 +36,8 @@ streamlit run app.py
 ```
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- ** Email ** : fahad1078397@gmail.com
-- ** linkedin ** : https://www.linkedin.com/in/fahadali1078/
+-  Email  : fahad1078397@gmail.com
+-  linkedin  : https://www.linkedin.com/in/fahadali1078/
 ======================================================================================================
 
 Thank you for using the Web App Machine Learning Data Analysis! We hope this tool helps you in your data analysis endeavors.
